@@ -24,3 +24,5 @@ If your goal is to explore everything this darknet marketplace provides, make se
 
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/modules/portion.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/modules/app.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  18.09.2025 link is functioning
